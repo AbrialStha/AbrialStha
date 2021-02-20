@@ -1,15 +1,13 @@
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=AbrialStha.AbrialStha)
 
-<img align="right" alt="GIF" src="tester.gif"  height="120"/>
+<img align="left" alt="GIF" src="tester.gif"  height="100"/>
 Project that I'm curently working on  
 
 - :exclamation: Automating tests
 - :collision: Automating Builds & Reports
 - :star2: Automating process (Unix & bash)
 
-
----
 📈 **My GitHub Stats:**
 
 <p>
