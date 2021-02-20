@@ -2,7 +2,8 @@
 ### Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=AbrialStha.AbrialStha)
 
 <img align="left" alt="GIF" src="tester.gif"  height="100"/>
-Project that I'm curently working on  
+
+__Project that I'm curently working on__
 
 - :exclamation: Automating tests
 - :collision: Automating Builds & Reports
