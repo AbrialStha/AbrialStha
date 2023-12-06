@@ -5,8 +5,8 @@
 
 __Project that I'm curently working on__
 
-- :exclamation: Automating tests
-- :collision: Automating Builds & Reports
+- :exclamation: Serverless, Nodejs, Golang
+- :collision: Nextjs, Turbo, React
 - :star2: Automating process (Unix & bash)
 
 📈 **My GitHub Stats:**
